@@ -9,7 +9,7 @@ noButton.addEventListener("mouseover", () => {
 });
 
 yesButton.addEventListener("click", () => {
-    popup.style.display = "block";
+    popup.style.display = "flex";
 });
 
 popup.addEventListener("click", () => {
