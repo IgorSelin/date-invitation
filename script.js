@@ -12,9 +12,5 @@ yesButton.addEventListener("click", () => {
     popup.style.display = "flex";
 });
 
-popup.addEventListener("click", () => {
-    popup.style.display = "none";
-});
-
 // Hide the popup initially
 popup.style.display = "none";
